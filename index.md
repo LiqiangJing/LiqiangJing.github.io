@@ -1,19 +1,22 @@
 ## Welcome to My Pages
 
-Hello!
 
 ### About Me
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+  Hello! I'm Jing Liqiang. I studied in Hefei University of Technology as an undergraduate from 2016 to 2020. Now I am a graduate student in Shandong University.
+  
 ### Publications
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LiqiangJing/LiqiangJing.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-### Misc
-#### Contact
 
+### Misc
+  Playing Guitar.
+  Reading Book.
+  Running.
+  Playing Basketball. 
+#### Contact
+E-MAIL : jingliqiang@mail.hfut.edu.cn
+         577279815@qq.com
+         jingliqiang6@gmail.com
+QQ  : 577279815
 #### Talks
 
 #### Skills
@@ -23,4 +26,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Courses
 
 ### Awards
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
