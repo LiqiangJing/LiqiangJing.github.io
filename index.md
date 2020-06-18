@@ -13,7 +13,7 @@
   Running.
   Playing Basketball. 
 #### Contact
-E-MAIL : jingliqiang@mail.hfut.edu.cn
+E-MAIL : jingliqiang@mail.hfut.edu.cn  </br>
          577279815@qq.com
          jingliqiang6@gmail.com
 QQ  : 577279815
