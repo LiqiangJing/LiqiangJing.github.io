@@ -8,9 +8,9 @@
 
 
 ### Misc
-  Playing Guitar.
-  Reading Book.
-  Running.
+  Playing Guitar.  
+  Reading Book.  
+  Running.  
   Playing Basketball. 
 #### Contact
 E-MAIL : jingliqiang@mail.hfut.edu.cn  </br>
